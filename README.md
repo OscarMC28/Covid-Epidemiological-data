@@ -1,7 +1,7 @@
 # Covid-Epidemiological-data
-Clustering COVID-19 Epidemiological data
+Clustering COVID-19 Epidemiological data. The techniques used in this project are:
 
-Remove outliers
-K-means
-Elbow methods to determine optimal K clusters
-Pair plots
+1. Remove outliers
+2. K-means
+3. Elbow methods to determine optimal K clusters
+4. Pair plots to analyse and profile cluster
